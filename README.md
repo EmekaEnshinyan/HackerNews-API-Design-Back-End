@@ -1,7 +1,7 @@
 # HackerNews-Article-API-Web-Viewer-Back-End
 Project: An API design Webpage that will display the top 500 trending articles from Hacker News Using Java+Springboot+REST as the Back End and React.js+MaterialUI as the Front End
 
-[![](https://img.shields.io/badge/license-Spring-darkgreen.svg?)](https://https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/license-Spring-darkgreen.svg?)](https://www.apache.org/licenses/LICENSE-2.0)
 
 *Questions?  Comments?  Feedback? Email me at emeka.enshinyan@gmail.com 
 
