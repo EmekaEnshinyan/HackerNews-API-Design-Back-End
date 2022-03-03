@@ -24,10 +24,11 @@ This API design displays the data of a news article that was retrieved from the 
 - Java 15 (can also be run on Java 8)
 - Apache-Maven version 15
 - Internet connection for the API calls
+- The editors I used were IntelliJ and VSCode
 
 ## Setup
-### one
-#### two
+### Back End
+1. Download the HackerNews-API-Design-Back-End repository and the 
 
 ## Running-The-Application
 
