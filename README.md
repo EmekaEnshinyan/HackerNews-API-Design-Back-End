@@ -3,7 +3,9 @@ Fundamental function: A full stack application that makes an API call to Hacker 
 
 This API design displays the data of a news article that was retrieved from the Hacker News API currently using a localhost port. The technologies useed are Java, Springboot in Spring MVC Structure, Javascript, React.js, Atom, MaterialUI, and Node.js.
 
+
 [![](https://img.shields.io/badge/license-Spring-darkgreen.svg?)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/license-Node-blue.svg?)](https://github.com/nodejs/node/blob/master/LICENSE)
 
 *Questions?  Comments?  Feedback? Email me at emeka.enshinyan@gmail.com 
 
