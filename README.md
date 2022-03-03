@@ -38,16 +38,16 @@ This API design displays the data of a news article that was retrieved from the 
 2. make sure it is listening on a different port (default is 3000)
 
 ## Running-The-Application
-3.  Run the server (you can test via Postman or type in "localhost:8080/hn/articles" in a browser)
-
-
-3. type the following in the terminal:
-
+1.  Run the server through IntelliJ by compiling and running the program (you can test via Postman or type in **localhost:8080/hn/articles** in a browser) 
+2. type the following in the terminal either in VSCode or in Windows CLI:
 ```
-cd [directory of HackerNews-API-Design-Front-End repostory]
-C:\Users\user\HackerNews-API-Design-Front-End> npm start
+$cd [directory of HackerNews-API-Design-Front-End repostory]
 ```
-A new browser tab should open up showing a list of the Article Data categories predefined by Hacker News
+then npm start:
+```
+$C:\Users\user\HackerNews-API-Design-Front-End> npm start
+```
+A new browser tab should open up showing a list of the Article Data categories predefined by Hacker News.
 
 ## Plans-&-Improvements
 
