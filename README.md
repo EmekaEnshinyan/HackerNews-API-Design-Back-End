@@ -32,11 +32,12 @@ This API design displays the data of a news article that was retrieved from the 
 - Bootstrap
 
 ## Setup
-#### Back End
-1. Download the HackerNews-API-Design-Back-End repository
+
+##### Back End
+1. Download the [Back End Repo](https://github.com/EmekaEnshinyan/HackerNews-API-Design-Back-End.git)
 2.  Make sure the server is listening in on the right port (default 8080)
-#### Front End
-1. Download the HackerNews-API-Design-Front-End repository and open it in VSCode
+##### Front End
+1. Download the [Front End Repo](https://github.com/EmekaEnshinyan/HackerNews-API-Design-Front-End.git) and open it in VSCode
 2. make sure it is listening on a different port (default is 3000)
 
 ## Running-The-Application
