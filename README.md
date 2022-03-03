@@ -23,17 +23,16 @@ This API design displays the data of a news article that was retrieved from the 
 ###### The following tools are required to to have the application run:
 - Java 15 (can also be run on Java 8)
 - Apache-Maven version 15
-- Internet connection for the API calls
-- The editors I used were IntelliJ and VSCode
+- Internet connection
+- A means to compile and run the Java code (the editors I used were IntelliJ for Java and VSCode for JS)
 - Node.JS
 - Bootstrap
-- 
 
 ## Setup
-### Back End
+#### Back End
 1. Download the HackerNews-API-Design-Back-End repository
 2.  Make sure the server is listening in on the right port (default 8080)
-### Front End
+#### Front End
 1. Download the HackerNews-API-Design-Front-End repository and open it in VSCode
 2. make sure it is listening on a different port (default is 3000)
 
@@ -41,7 +40,7 @@ This API design displays the data of a news article that was retrieved from the 
 1.  Run the server through IntelliJ by compiling and running the program (you can test via Postman or type in **localhost:8080/hn/articles** in a browser) 
 2. type the following in the terminal either in VSCode or in Windows CLI:
 ```
-$cd [directory of HackerNews-API-Design-Front-End repostory]
+$cd [directory of HackerNews-API-Design-Front-End repository]
 ```
 then npm start:
 ```
