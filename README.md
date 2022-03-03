@@ -6,6 +6,7 @@ This API design displays the data of a news article that was retrieved from the 
 
 [![](https://img.shields.io/badge/license-Spring-darkgreen.svg?)](https://www.apache.org/licenses/LICENSE-2.0)
 [![](https://img.shields.io/badge/license-Node-blue.svg?)](https://github.com/nodejs/node/blob/master/LICENSE)
+[![](https://img.shields.io/badge/license-React-lightblue.svg?)](https://github.com/facebook/react/blob/main/LICENSE)
 
 *Questions?  Comments?  Feedback? Email me at emeka.enshinyan@gmail.com 
 
