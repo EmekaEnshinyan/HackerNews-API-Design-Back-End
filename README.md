@@ -25,12 +25,29 @@ This API design displays the data of a news article that was retrieved from the 
 - Apache-Maven version 15
 - Internet connection for the API calls
 - The editors I used were IntelliJ and VSCode
+- Node.JS
+- Bootstrap
+- 
 
 ## Setup
 ### Back End
-1. Download the HackerNews-API-Design-Back-End repository and the 
+1. Download the HackerNews-API-Design-Back-End repository
+2.  Make sure the server is listening in on the right port (default 8080)
+### Front End
+1. Download the HackerNews-API-Design-Front-End repository and open it in VSCode
+2. make sure it is listening on a different port (default is 3000)
 
 ## Running-The-Application
+3.  Run the server (you can test via Postman or type in "localhost:8080/hn/articles" in a browser)
+
+
+3. type the following in the terminal:
+
+```
+cd [directory of HackerNews-API-Design-Front-End repostory]
+C:\Users\user\HackerNews-API-Design-Front-End> npm start
+```
+A new browser tab should open up showing a list of the Article Data categories predefined by Hacker News
 
 ## Plans-&-Improvements
 
